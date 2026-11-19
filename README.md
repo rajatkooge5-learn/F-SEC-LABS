@@ -75,6 +75,48 @@ This lab focuses on the development and implementation of the Lava Escape game u
 
 ---
 
+### Lab 5 – Static Code Analysis: Course Enrollment System
+
+This lab focuses on:
+- Static Code Analysis
+- Code Quality & Formatting (Flake8)
+- Linting & Code Smells (Pylint)
+- Security Vulnerability Scanning (Bandit)
+- Refactoring and Issue Remediation
+
+**Repository:**  
+[Lab 5 – Course Enrollment System](https://github.com/rajatkooge5-learn/L5_52_course_enrollment_system)
+
+---
+
+### Lab 6 – Code & Branch Coverage: Recycling Rewards
+
+This lab focuses on:
+- Unit Testing with Pytest
+- Statement / Line Code Coverage
+- Branch Coverage Analysis
+- Coverage Measurement (`coverage.py` / `.coverage`)
+- Test Case Design for Edge Cases
+
+**Repository:**  
+[Lab 6 – Code & Branch Coverage](https://github.com/rajatkooge5-learn/L6_L7_50_recycling_rewards/tree/main/Lab%206)
+
+---
+
+### Lab 7 – Fuzz Testing: Recycling Rewards
+
+This lab focuses on:
+- Fuzz Testing
+- Robustness & Fault Tolerance
+- Random & Boundary Input Generation
+- Exception Handling and Edge Case Verification
+- Automated Testing against Software Crashes
+
+**Repository:**  
+[Lab 7 – Fuzz Testing](https://github.com/rajatkooge5-learn/L6_L7_50_recycling_rewards/tree/main/Lab%207)
+
+---
+
 ## Summary
 
 | Lab | Title | Repository |
@@ -83,11 +125,14 @@ This lab focuses on the development and implementation of the Lava Escape game u
 | Lab 2 | Jira – Agile Backlog & Sprint Simulation | [Open Repository](https://github.com/rajatkooge5-learn/Lab-2-Jira) |
 | Lab 3 | Component Modelling & Architectural Pattern Selection | [Open Repository](https://github.com/rajatkooge5-learn/Lab-3-UML) |
 | Lab 4 | Lava Escape | [Open Repository](https://github.com/rajatkooge5-learn/52_lava-escape) |
+| Lab 5 | Static Code Analysis – Course Enrollment System | [Open Repository](https://github.com/rajatkooge5-learn/L5_52_course_enrollment_system) |
+| Lab 6 | Code & Branch Coverage – Recycling Rewards | [Open Repository](https://github.com/rajatkooge5-learn/L6_L7_50_recycling_rewards/tree/main/Lab%206) |
+| Lab 7 | Fuzz Testing – Recycling Rewards | [Open Repository](https://github.com/rajatkooge5-learn/L6_L7_50_recycling_rewards/tree/main/Lab%207) |
 
 ---
 
 ## Submission
 
-This repository provides a single entry point to all four F-SEC laboratory repositories.
+This repository provides a single entry point to all seven F-SEC laboratory repositories.
 
 **Main Repository:** `F-SEC_Labs`
